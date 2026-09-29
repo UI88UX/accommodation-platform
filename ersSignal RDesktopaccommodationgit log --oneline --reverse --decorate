@@ -1,0 +1,20 @@
+[33mea2743f[m Initial commit: Final version of accommodation with Supabase backend
+[33mbbc6991[m feat: Complete migration to Supabase and fix components
+[33mae129ef[m Initial commit:fixing rese-password configuration
+[33m5ac9966[m fix:fixing reset-password configuration
+[33m67520e8[m fix2:fixing reset-password configuration
+[33maf17716[m footer:quick links fixed
+[33m46d6cca[m fix:fixing user detail displaying in expandekeys
+[33mc72c4c0[m fix:showing phonenumber in managebooking
+[33m5acb1d7[m fix:adjusting paymentpage UI
+[33m3027315[m adding readme
+[33mcf28786[m adding project banner inside readme
+[33mfa89f38[m editing gitignore file&readme
+[33md8056cb[m develop:powerup  the reset-password functionality
+[33mff5a57a[m removing Unnecessary file
+[33m63d2060[m :fix:fix reset password
+[33macff091[m fixing reset password
+[33md9c811b[m changins some file's name
+[33mb8f2363[m adding title
+[33m860e8ce[m adding logo beside title
+[33m76a6c4f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m adding city name in hotelCard
